@@ -1,6 +1,6 @@
 # Lab: RUBIK Pi 3 101 — Hardware Assembly, ARM Architecture, and Linux
 
-**Level:** Beginner  
+**Level:** Beginner/Intermediate  
 **Platform:** Windows / macOS  
 **Hardware:** Qualcomm RUBIK Pi 3  
 **Format:** Hands-on lab (students work in pairs)
